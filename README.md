@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d/2000_600px.gif)](https://naradsaud.io)
+[![MasterHead](https://media4.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=6c09b952pfdoefwawjmioh0pcepzcd0aff6e29udx22dmmiz&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://naradsaud.io)
 <h1 align="center">Hi 👋, I'm Narad</h1>
 <h3 align="center">Passionate coder</h3>
 
